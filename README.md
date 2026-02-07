@@ -1,5 +1,3 @@
----
-
 # Ordering System (Django REST Framework)
 
 This project is a simple **Ordering System** made using **Django** and **Django REST Framework (DRF)**.
